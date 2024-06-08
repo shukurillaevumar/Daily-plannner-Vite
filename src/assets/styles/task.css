@@ -1,0 +1,22 @@
+body {
+  background: linear-gradient(135deg, #0d47a1, #651fff);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.todo-container {
+  background: white;
+  padding: 60px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 700px;
+}
+
+.todo-container h2 {
+  text-align: start;
+  margin: 0 0 20px;
+}
